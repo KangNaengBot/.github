@@ -76,7 +76,7 @@ KangNaengBot은 강남대학교 학생들이 자주 겪는
 - 이름, 학번, 단과대학, 학부, 전공, 학년·학기 정보 기반 동작
 - 졸업요건, 수강신청, 행정부서 정보를 개인 기준으로 필터링
 
-![image.png](attachment:a7f17f84-1306-40fa-8f6b-55ce4189d817:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/profile_1.png?raw=true)
 
 **지원 기능**
 - 공통 졸업요건과 전공 필수 요건 자동 정리
@@ -92,14 +92,14 @@ KangNaengBot은 강남대학교 학생들이 자주 겪는
 ### 🌽 사용 흐름
 
 #### 1. 시간표 모드 활성화
-![image.png](attachment:18a31df4-2b6d-4d06-ba5c-35cdeee039d6:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_1.png?raw=true)
 
 ---
 
 #### 2. 과목 검색 / 졸업요건 / 필수 과목 확인
-![image.png](attachment:1a7b0c1b-40c6-4bef-99fb-4617a3d51398:image.png)
-![image.png](attachment:5d86732d-1b78-47a9-ac7d-2e8c925fe499:image.png)
-![image.png](attachment:75195120-5b59-41aa-867b-dc3914c6edc8:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_2.png?raw=true)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_3.png?raw=true)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_4.png?raw=true)
 
 ---
 
@@ -108,33 +108,33 @@ KangNaengBot은 강남대학교 학생들이 자주 겪는
 - 원하는 분반 선택 가능
 - 목표 학점에 맞춰 유연하게 추가 가능
 
-![image.png](attachment:57047a6b-9d23-43e7-8615-92114f5a033c:image.png)
-![image.png](attachment:4f2af536-6bbb-4447-86ed-0fdc263e0cfd:image.png)
-![image.png](attachment:f25debd9-fde8-479f-9ccd-589d8b572fa4:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_5.png?raw=true)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_6.png?raw=true)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_7.png?raw=true)
 
 ---
 
 #### 4. 장바구니 과목 확인
-![image.png](attachment:fdcaaba1-3e53-40f8-901d-9bf2191737c4:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_8.png?raw=true)
 
 ---
 
 #### 5. 시간표 생성 요청
-![image.png](attachment:e96344de-a791-4273-824f-6716359ee10d:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_9.png?raw=true)
 
 ---
 
 #### 6. 조건 입력
-![image.png](attachment:c5bf1454-6c16-4acb-a27e-df1ec0f76e1c:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_10.png?raw=true)
 
 > 조건에 따라 처리 시간이 다소 소요될 수 있습니다.
 
-![image.png](attachment:de0a2419-3a74-4493-8bb5-2834b8cc3d27:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_11.png?raw=true)
 
 ---
 
 #### 7. 시간표 저장 및 다운로드
-![image.png](attachment:7d5d7487-7455-410a-8eb1-f259416bda9d:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/schedule_12.png?raw=true)
 
 ---
 
@@ -184,7 +184,7 @@ KangNaengBot은 강남대학교 학생들이 자주 겪는
 
 ## 🌽 Feedback & Contribution
 
-![image.png](attachment:3e6f1344-057d-419f-8a60-720fd7fef943:image.png)
+![image.png](https://github.com/KangNaengBot/.github/blob/main/profile/assets/feedback_1.png?raw=true)
 
 - GitHub Issue
 - 서비스 내 피드백 버튼
